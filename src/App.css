@@ -1,0 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Crimson+Pro:wght@200&family=Josefin+Sans:wght@300&family=Lobster&family=Montserrat:wght@100;200;300;400;500;600;700&family=Mulish&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Titillium+Web:ital,wght@0,400;1,600&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
